@@ -18,6 +18,8 @@ AZ-300 Links and Schedule
 ### Azure Documentation
 
 - Azure Architecture Center - <https://docs.microsoft.com/en-us/azure/architecture/>
+- Azure ARM Template Reference - <https://docs.microsoft.com/en-us/azure/templates/>
+- Azure CLI Reference - <https://docs.microsoft.com/en-us/cli/azure/?view=azure-cli-latest>
 - Azure N-Tier Architecture - <https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/n-tier/n-tier-sql-server>
 
 ### Azure Serverless
@@ -98,13 +100,11 @@ AZ-300 Links and Schedule
 - AZ-300L02 - Module 01 - Lesson 2 - Azure Migrate
 - AZ-300L02 - Module 01 - Lesson 3 - Azure Site Recovery
 - AZ-300L02 - Module 01 - Lesson 4 - Prepare the Infrastructure
-- Online Lab - Implementing Azure to Azure Migration
 - AZ-300L01 - Module 01 - Lesson 1 - Exploring Monitoring Capabilities in Azure
 - AZ-300L01 - Module 01 - Lesson 3 - Azure Monitor Logs and Log Analytics
 - AZ-300L01 - Module 01 - Lesson 2 - Azure Alerts
 - AZ-300L01 - Module 01 - Lesson 4 - Network Watcher
-- AZ-300L06 - Module 04 - Lesson 1 - Implement Autoscaling Rules and Patterns
-- AZ-300L06 - Module 04 - Lesson 3 - Implement Code that Addresses a Transient State
+- Online Lab - Implementing Azure to Azure Migration
 - Online Lab - Exploring Monitoring Capabilities in Azure
 
 ### Apps
@@ -112,7 +112,7 @@ AZ-300 Links and Schedule
 - AZ-300L04 - Module 03 - Lesson 1 - Creating an Azure Kubernetes Service Cluster
 - AZ-300L04 - Module 03 - Lesson 2 - Deploy an AKS Cluster
 - AZ-300L04 - Module 03 - Lesson 3 - Publish a Container Image to Azure Container Registry
-- AZ-300L04 - Module 03 - Lesson 4 - Create and Run Container Images in Azure Container Services
+- AZ-300L04 - Module 03 - Lesson 4 - Create and Run Container Images in Azure Container Instances
 - AZ-300L04 - Module 01 - Lesson 1 - Azure App Service Core Components
 - AZ-300L02 - Module 02 - Lesson 1 - Deploying Web Apps
 - AZ-300L04 - Module 01 - Lesson 2 - Creating an Azure App Service Web App
